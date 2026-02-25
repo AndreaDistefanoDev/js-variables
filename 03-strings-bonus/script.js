@@ -27,5 +27,5 @@ console.log(`${city} ${cityName}`); // Output: "New York City"
 
 // 5. Tutto in maiscolo
 // Trasforma tutto in maiscuolo la stringa della variabile hello
-const upperCaseHello = '';
+const upperCaseHello = 'HELLO';
 console.log(upperCaseHello); // Output: "HELLO"
